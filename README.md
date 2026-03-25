@@ -1,2 +1,1 @@
-# .github
-README
+Github for the RH-ONK RWD group
